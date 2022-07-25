@@ -1,0 +1,1 @@
+# XCPC-Algorithm-Template
